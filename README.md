@@ -46,7 +46,7 @@ Each visualization helps explain how **education, working hours, and nationality
 
 | Platform | Link |
 |-----------|------|
-| 💻 **Google Colab** | [Open in Colab](https://colab.research.google.com/drive/1CyGtAP2kRd5JRG0-C6poxUDc0UJRa7gU?usp=drive_link) 
+| 💻 **Google Colab** | [https://colab.research.google.com/drive/1CyGtAP2kRd5JRG0-C6poxUDc0UJRa7gU?usp=sharing) 
 
 ---
 
